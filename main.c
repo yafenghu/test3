@@ -37,7 +37,7 @@ void main( void )
     }
     while(1)
     {
-        LcdWriteCommand(0x05, 1);           //整体显示右移
+        LcdWriteCommand(0x05, 1);           //显示整体右移
         
         for(i = 24; i > 0; i--)  
         {
