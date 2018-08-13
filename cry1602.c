@@ -20,7 +20,7 @@ typedef unsigned int  uint;
 参    数：x--位置的列坐标
           y--位置的行坐标
           ptr--指向字符串存放位置的指针
-返回值  ：无
+返回值  ：无 这是对GitHub的一个测试，更改后看是否变化，另外用了UTF-8编码
 ***********************************************/
 void DispStr(uchar x,uchar y,uchar *ptr) 
 {
